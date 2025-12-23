@@ -8,7 +8,15 @@ export default function App() {
       <h1>Weather App</h1>
       <WeatherSearch />
       <footer>
-        Coded by Andreia Ribeiro ·<a href="#">Open Sourced</a>·
+        Coded by Andreia Ribeiro ·
+        <a
+          href="https://github.com/andreiapatriciaribeiro88-web/weatherappreact"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open Sourced
+        </a>
+        ·
       </footer>
     </div>
   );
